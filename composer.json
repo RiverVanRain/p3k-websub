@@ -1,5 +1,5 @@
 {
-  "name": "p3k/websub",
+  "name": "rivervanrain/websub",
   "type": "library",
   "description": "A library for subscribing to and publishing WebSub feeds",
   "keywords": ["websub","pubsubhubbub","pubsub","indieweb","p3k","feed"],
